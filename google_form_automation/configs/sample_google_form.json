@@ -1,0 +1,45 @@
+{
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSeZ42rcO3nr7-b-EMJvx_bsCp2b3_zNUj_NuRsEc2HafGXcWA/formResponse",
+    "fields": {
+        "multiple_choice": {
+            "entry_id": "entry.1235339495",
+            "value": "Multiple Choice 1"
+        },
+        "short_answer": {
+            "entry_id": "entry.1971069311",
+            "value": "1"
+        },
+        "date_year": {
+            "entry_id": "entry.468213718_year",
+            "value": "year"
+        },
+        "date_month": {
+            "entry_id": "entry.468213718_month",
+            "value": "month"
+        },
+        "date_day": {
+            "entry_id": "entry.468213718_day",
+            "value": "day"
+        },
+        "start_time_hour": {
+            "entry_id": "entry.294452941_hour",
+            "value": "start_hour"
+        },
+        "start_time_minute": {
+            "entry_id": "entry.294452941_minute",
+            "value": "start_minute"
+        },
+        "end_time_hour": {
+            "entry_id": "entry.1322518108_hour",
+            "value": "end_hour"
+        },
+        "end_time_minute": {
+            "entry_id": "entry.1322518108_minute",
+            "value": "end_minute"
+        },
+        "checkbox": {
+            "entry_id": "entry.1882664685",
+            "value": "Option 1" 
+        }
+    }
+}

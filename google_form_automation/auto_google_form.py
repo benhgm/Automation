@@ -49,7 +49,7 @@ class AutoFillGoogleForm(object):
 
 
 if __name__ == "__main__":
-    with open("configs/paddle_lodge_log_sheet.json", "r") as file:
+    with open("paddle_lodge_log_sheet.json", "r") as file:
         config = json.load(file)
     auto_form_filler = AutoFillGoogleForm(config)
     auto_form_filler.post_data()
